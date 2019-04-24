@@ -1,6 +1,9 @@
+[![Build Status](https://travis-ci.com/otus-devops-2019-02/Tennki_infra.svg?branch=master)](https://travis-ci.org/otus-devops-2019-02/Tennki_infra)
+
 # Tennki_infra
 Tennki Infra repository
 
+# IP
 bastion_IP = 35.207.181.156
 someinternalhost_IP = 10.156.0.3
 
